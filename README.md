@@ -13,7 +13,7 @@ This Python project provides a Levenshtein distance calculator and a graphical u
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Enter the documents in 'levenshtein.py' file.
+2. Enter the documents in `levenshtein.py` file.
 3. Run the `GUI.py` script to launch the graphical user interface.
 4. Enter a string in the search box and click "Search" to rank documents based on string similarity using Levenshtein distance.
 5. Toggle between dark and light mode themes with ease.
